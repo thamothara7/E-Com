@@ -1,9 +1,9 @@
 // sample product data
 const products = [
-    { id: 1, name: "Smart Watch", price: 1999, img: "https://via.placeholder.com/200" },
-    { id: 2, name: "Headphones", price: 1499, img: "https://via.placeholder.com/200" },
-    { id: 3, name: "Bluetooth Speaker", price: 999, img: "https://via.placeholder.com/200" },
-    { id: 4, name: "Power Bank", price: 799, img: "https://via.placeholder.com/200" }
+    { id: 1, name: "Smart Watch", price: 1999, img: "Assets/Watch.jpg" },
+    { id: 2, name: "Headphones", price: 1499, img: "Assets/Headphones.jpg" },
+    { id: 3, name: "Bluetooth Speaker", price: 999, img: "Assets/Speaker.jpg" },
+    { id: 4, name: "Power Bank", price: 799, img: "Assets/Powerbank.jpg" }
 ];
 
 let cartCount = 0;
